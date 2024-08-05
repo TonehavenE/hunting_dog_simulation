@@ -1,3 +1,4 @@
+"""Copyright Eben Quenneville. Original question courtesy of IDEA Math."""
 from random import randint, choices
 from collections import Counter
 import math
